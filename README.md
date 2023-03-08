@@ -1,7 +1,8 @@
 
 # Calculator- HTML CSS JavaScript
 
-
+## Live Demo
+[GitHub Pages Link](https://shivraj0002.github.io/calculator/)
 
 
 ## FrontEnd
@@ -48,4 +49,10 @@
 **Client:** HTML, CSS, JS
 
 **Server:** N/A
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivraj0002/)
+
 
